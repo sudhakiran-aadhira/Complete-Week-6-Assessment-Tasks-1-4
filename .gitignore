@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 __pycache__/
 *.pyc
 .pytest_cache/
+=======
+# some remote content
+>>>>>>> origin/main
